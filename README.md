@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 1. Collecting and sharing awesome resources about technical communication (tech comm):
 
-    [![Awesome Technical Communication](https://github-readme-stats.vercel.app/api/pin?username=lilin90&repo=awesome-technical-communication&theme=radical)](https://github.com/lilin90/awesome-technical-communication)
+    [![jiemian](https://github-readme-stats.vercel.app/api/pin?username=171575&repo=171575.github.io)](https://github.com/171575/171575.github.io)
 
     > **Note:** Currently, this project includes tech comm resources in both English and Chinese.
 
